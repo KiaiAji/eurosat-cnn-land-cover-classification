@@ -1,0 +1,21 @@
+{
+    "dataset": "timm/eurosat-rgb",
+    "model": "CNN",
+    "training_images": 2000,
+    "validation_images": 500,
+    "test_images": 500,
+    "test_accuracy": 0.6660000085830688,
+    "test_loss": 0.9519354104995728,
+    "classes": [
+        "AnnualCrop",
+        "Forest",
+        "HerbaceousVegetation",
+        "Highway",
+        "Industrial",
+        "Pasture",
+        "PermanentCrop",
+        "Residential",
+        "River",
+        "SeaLake"
+    ]
+}
